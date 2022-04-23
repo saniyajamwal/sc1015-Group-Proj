@@ -26,9 +26,9 @@ This is Team 1's mini-project for SC1015 (Introduction to Data Science and Artif
 # Team 1 Members 
 | Name              |                     Area of Focus                     |GitHub Acount|
 |---|:---:|---|
-| Saniya Rohit Jamwal |        Dataset, GitHub Repository, EDA        |@saniyajamwal|
-| Jarel Tan     |     Video Presentation, Machine Learning, EDA      |-|
-| Chi Seo Hyeon |       Problem Definition, EDA        |-|
+| Saniya Rohit Jamwal |      GitHub Repository, Video Presentation, EDA,         |@saniyajamwal|
+| Jarel Tan     |       Dataset, Problem Definition, EDA      |-|
+| Chi Seo Hyeon |        EDA        |-|
 
 ## Question/Problem Definition 
 Crime occurs in every country and poverty is something no country is exempt from. This got us thinking on the correlation between the two and how one impacts the other while specifically looking at property-motivated crimes. This brought us to our question:
