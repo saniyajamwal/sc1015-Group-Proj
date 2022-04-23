@@ -10,6 +10,21 @@ Team 1: Jarel Tan, Saniya Jamwal, Chi Seo Hyeon
     - [project final.ipynb](https://github.com/saniyajamwal/sc1015-Group-Proj/blob/main/project%20final.ipynb)
     - [Income Distribution](#income-distribution)
     - [Property Values](#property-values)
+    - [General Trend](#general-trend)
+    - [Interesting Outlier](#interesting-outlier)
+- [Machine Learning](#machine-learning)
+    - [ARIMA.ipynb](https://github.com/BLTech-py/sc1015/blob/main/ARIMA.ipynb)
+    - [ARIMA Introduction](#arima-introduction)
+    - [Best Blk for ML](#best-blk-for-ml)
+    - [p, d, q value Optimisation](#p-d-q-value-optimisation)
+    - [Obtaining Test Data](#obtaining-test-data)
+    - [Future Price Prediction](#future-price-prediction)
+- [Insights of Data & Conclusion](#insights-of-data--conclusion)
+- [Closing Remarks](#closing-remarks)
+- [Version History](#version-history)
+- [Extras](#extras)
+- [References](#references)
+
 
 # About
 
@@ -23,9 +38,9 @@ This is Team 1's mini-project for SC1015 (Introduction to Data Science and Artif
 | Chi Seo Hyeon |       Problem Definition, EDA        |-|
 
 ## Question/Problem Definition 
-Crime occurs in every country and poverty is something no country is exempt from. This got us thinking on the correlation between the two and how one impacts the other. This in itself made us question:
+Crime occurs in every country and poverty is something no country is exempt from. This got us thinking on the correlation between the two and how one impacts the other while specifically looking at property-motivated crimes. This brought us to our question:
 
-> *To what extent, if any, are the effects of income distribution on the frequency of crimes against property?*
+>*How does household income and home value affect crime types and crime rates?*
 
 # Dataset Selection & Preparation
 After extensive online research, our team finalised on a dataset we found to be suitable for our project. We decided to take the crime rate statistics from the United States of America and specifically the state of Wahington DC as this allowed us to work with a larger data set from [OpenDataDC](https://opendata.dc.gov/search?collection=Dataset).
@@ -38,4 +53,14 @@ For our Exploratory Data Analysis we collaborated in a jupyter notebook titled [
 ## Income Distribution 
 When looking at the data, the offensors were categorised by race and income and we decided to choose the later as the cause of motivation for commiting the crime. This hence made income distribution the focus for our project. 
 
-<ins>Number of data 
+<ins>Meadian and mean income for each ward</ins>
+| Ward | Median Household Income | Mean Household Income |
+|---|:---:|---|
+|   1  |          80,794         |        103,071        |
+|   2  |          99,422         |        139,194        |
+|   3  |         109,909         |        169,377        |
+|   4  |          71,545         |        107,147        |
+|   5  |          55,063         |        72,859         |
+|   6  |          90,903         |        112,711        |
+|   7  |          39,828         |        52,721         |
+|   8  |          31,642         |        43,423         |
