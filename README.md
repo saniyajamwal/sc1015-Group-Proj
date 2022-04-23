@@ -14,8 +14,6 @@ Team 1: Jarel Tan, Saniya Jamwal, Chi Seo Hyeon
     - [Interesting Outlier](#interesting-outlier)
 - [Insights of Data & Conclusion](#insights-of-data--conclusion)
 - [Closing Remarks](#closing-remarks)
-- [Version History](#version-history)
-- [Extras](#extras)
 - [References](#references)
 
 
