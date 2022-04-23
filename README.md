@@ -12,13 +12,6 @@ Team 1: Jarel Tan, Saniya Jamwal, Chi Seo Hyeon
     - [Property Values](#property-values)
     - [General Trend](#general-trend)
     - [Interesting Outlier](#interesting-outlier)
-- [Machine Learning](#machine-learning)
-    - [ARIMA.ipynb](https://github.com/BLTech-py/sc1015/blob/main/ARIMA.ipynb)
-    - [ARIMA Introduction](#arima-introduction)
-    - [Best Blk for ML](#best-blk-for-ml)
-    - [p, d, q value Optimisation](#p-d-q-value-optimisation)
-    - [Obtaining Test Data](#obtaining-test-data)
-    - [Future Price Prediction](#future-price-prediction)
 - [Insights of Data & Conclusion](#insights-of-data--conclusion)
 - [Closing Remarks](#closing-remarks)
 - [Version History](#version-history)
@@ -55,7 +48,7 @@ When looking at the data, the offensors were categorised by race and income and 
 
 <ins>Median and mean income for each ward</ins>
 | Ward | Median Household Income | Mean Household Income |
-|---|:---:|---|
+|:---:|:---:|:---:|
 | 1 |          80,794         |        103,071        |
 | 2 |          99,422         |        139,194        |
 | 3 |         109,909         |        169,377        |
@@ -64,3 +57,20 @@ When looking at the data, the offensors were categorised by race and income and 
 | 6 |          90,903         |        112,711        |
 | 7 |          39,828         |        52,721         |
 | 8 |          31,642         |        43,423         |
+
+## Property Values
+
+Having access to a data set comprising of home values, our team decided that it would be worth to take a look at that as well since income and home value are correlated. Higher income means residents are better able to afford higher value homes.
+
+<ins>Median home value for each ward</ins>
+| Ward | Median Home Value |
+|:---:|:---:|
+| 1 |          511,500         |
+| 2 |          605,700|
+| 3 |         788,800         |
+| 4 |          470,500         |
+| 5 |          358,200         |
+| 6 |          541,100         |
+| 7 |          230,700         |
+| 8 |         232,100        |
+
