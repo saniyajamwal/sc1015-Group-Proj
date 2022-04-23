@@ -21,7 +21,7 @@ Team 1: Jarel Tan, Saniya Jamwal, Chi Seo Hyeon
 
 # About
 
-This is Team 1's mini-project for SC1015 (Introduction to Data Science and Artificial Intelligence) with a primary focus on the crime rates in the state of Washington DC.  
+This is Team 1's mini-project for SC1015 (Introduction to Data Science and Artificial Intelligence) with a primary focus on the crime rates and crime types in the state of Washington DC.  
 
 # Team 1 Members 
 | Name              |                     Area of Focus                     |GitHub Acount|
@@ -31,7 +31,7 @@ This is Team 1's mini-project for SC1015 (Introduction to Data Science and Artif
 | Chi Seo Hyeon |        EDA        |-|
 
 ## Question/Problem Definition 
-Crime occurs in every country and poverty is something no country is exempt from. This got us thinking on the correlation between the two and how one impacts the other while specifically looking at property-motivated crimes. This brought us to our question:
+Crime occurs in every country and yet it is something no country has found a solution to. This got us thinking on the correlation between the crime rates and motivations for committing such heinous acts while specifically looking at avaricious crimes. This brought us to our question:
 
 >*How does household income and home value affect crime types and crime rates?*
 
