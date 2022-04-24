@@ -36,10 +36,10 @@ Crime occurs in every country and yet it is something no country has found a sol
 # Dataset Selection & Preparation
 After extensive online research, our team finalised on a dataset we found to be suitable for our project. We decided to take the crime rate statistics from the United States of America and specifically the state of Wahington DC as this allowed us to work with a larger data set from [OpenDataDC](https://opendata.dc.gov/search?collection=Dataset).
 
-However, the data sets on OpenDataDC are quite extensive and seperated so our team had to complie all the necessary data into [dc_crime_add_vars.csv.zip](https://github.com/saniyajamwal/sc1015-Group-Proj/blob/main/dc_crime_add_vars.csv.zip). Furthermore, we honed in further on the data so as to make our problem definition more focused and this was done by analyizing the data from [CRIME_EXTRA.csv](https://github.com/saniyajamwal/sc1015-Group-Proj/blob/main/CRIME_EXTRA.csv).
+However, the data sets on OpenDataDC are quite extensive and seperated so our team had to complie all the necessary data into [dc_crime_add_vars.csv.zip](https://github.com/saniyajamwal/sc1015-Group-Proj/blob/51e73c4a0e0b5e13d154730405f55643c7f60f4e/dc_crime_add_vars.csv.zip). Furthermore, we honed in further on the data so as to make our problem definition more focused and this was done by analyizing the data from [CRIME_EXTRA.csv](https://github.com/saniyajamwal/sc1015-Group-Proj/blob/51e73c4a0e0b5e13d154730405f55643c7f60f4e/CRIME_EXTRA.csv).
 
 # Exploratory Data Analysis
-For our Exploratory Data Analysis we collaborated in a jupyter notebook titled [project final.ipynb](https://github.com/saniyajamwal/sc1015-Group-Proj/blob/main/project%20final.ipynb) and these are our findings:
+For our Exploratory Data Analysis we collaborated in a jupyter notebook titled [Final EDA.ipynb](https://github.com/saniyajamwal/sc1015-Group-Proj/blob/51e73c4a0e0b5e13d154730405f55643c7f60f4e/Final%20EDA.ipynb) and these are our findings:
 
 ## Income Distribution 
 When looking at the data, the offensors were categorised by race and income and we decided to choose the later as the cause of motivation for commiting the crime. This hence made income distribution the focus for our project. 
